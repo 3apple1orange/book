@@ -34,7 +34,7 @@ export const person = {
   aboutUrl: "https://www.manansingla.com/about",
   siteUrl: "https://www.manansingla.com",
   siteLabel: "manansingla.com",
-  email: "m@manansingla.com",
+  email: "hello@meetmeinthebackyard.com",
   location: "Mumbai, India and San Francisco Bay Area, US",
   linkedin: "https://www.linkedin.com/in/manan-singla-548716271/",
 };
